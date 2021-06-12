@@ -1,2 +1,2 @@
 # test
-This is a test.
+Repository for check the environment configuration.
